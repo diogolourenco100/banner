@@ -7,7 +7,8 @@ pip install -r requirements.txt
 ```
 or
 ```bash
-pip install pyfiglet```
+pip install pyfiglet
+```
 
 ### 2 - Change the text and the font to your choose. 
 More fonts in ```http://www.figlet.org/examples.html```
